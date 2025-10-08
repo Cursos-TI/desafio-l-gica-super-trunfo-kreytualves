@@ -113,7 +113,6 @@ int main() {
     printf("Carta 1 - %s (%s): %.2f km²\n", cidade1, estado1, area1);
     printf("Carta 2 - %s (%s): %.2f km²\n", cidade2, estado2, area2);
 
-
     if(area1 > area2) {
         printf("\nResultado: Carta 1 (km2) venceu!\n", cidade1);
     } else {
