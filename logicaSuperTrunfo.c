@@ -18,6 +18,8 @@ int main() {
     int opcao;
 
          // entrada de dados
+         
+         // carta 1
 
     printf("Digite o nome do país: ");
     scanf("%29s", pais1);
