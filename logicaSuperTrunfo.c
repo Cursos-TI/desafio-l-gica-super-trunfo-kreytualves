@@ -215,7 +215,7 @@ int main() {
      else if (soma1 < soma2)
      printf("\n Vencedor: %s\n", pais2);
      else
-     printf("Empate!\n");
+     printf("Empate!!\n");
      
      printf("\n Fim da Rodada\n");
      return 0;
